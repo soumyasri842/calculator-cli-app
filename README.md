@@ -41,7 +41,7 @@ def main():
         choice = input("Enter your choice (1/2/3/4/5): ")
 
         if choice == '5':
-            print("👋 Exiting the calculator. Thank you!")
+            print(" Exiting the calculator. Thank you!")
             break
 
         if choice in ['1', '2', '3', '4']:
